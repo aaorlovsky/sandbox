@@ -1,0 +1,14 @@
+/*HashSet<AbonentData> hashSet = new HashSet<AbonentData>();
+    foreach (AbonentData ad in records.Reverse())
+    {
+        if (hashSet.Where(el => el.name == ad.name).Count() < 5)
+        {
+            hashSet.Add(ad);
+        }
+    }*/
+	
+	/*HashSet<string[]> hashSet = new HashSet<string[]>();
+    foreach (string str in reverseHashSet)
+    {
+        hashSet.Add(str.Split(' ').ToArray());
+    }*/
